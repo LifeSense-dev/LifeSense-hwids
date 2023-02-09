@@ -1,0 +1,2 @@
+# LifeSense-hwids
+LifeSense
